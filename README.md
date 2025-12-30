@@ -6,29 +6,29 @@ This project focuses on analyzing customer shopping behavior to extract meaningf
 
 ## 🎯 Objectives
 
-Analyze customer purchase behavior
+* Analyze customer purchase behavior
 
-Identify high-revenue customer segments
+* Identify high-revenue customer segments
 
-Understand payment, shipping, and category preferences
+* Understand payment, shipping, and category preferences
 
-Convert raw data into actionable business insights
+* Convert raw data into actionable business insights
 
 ## 📊 Dataset
 
-File: customer_shopping_behaviour.csv
+#### File: customer_shopping_behaviour.csv
 
 Contains customer demographics, purchase details, payment methods, shipping types, discounts, and review ratings.
 
 ## 🛠 Tools & Technologies Used
 
-SQL – Business-driven queries and aggregations
+* SQL – Business-driven queries and aggregations
 
-Python (Pandas, NumPy) – Data cleaning, handling missing values, EDA
+* Python (Pandas, NumPy) – Data cleaning, handling missing values, EDA
 
-Excel – Pivot tables and dashboard creation
+* Excel – Pivot tables and dashboard creation
 
-Jupyter Notebook – Python-based analysis and documentation
+* Jupyter Notebook – Python-based analysis and documentation
 
 ## 📌 SQL Analysis
 
@@ -36,19 +36,19 @@ Wrote 10 business-focused SQL queries
 
 Covered:
 
-Revenue analysis
+* Revenue analysis
 
-Customer segmentation
+* Customer segmentation
 
-Payment & shipping preferences
+* Payment & shipping preferences
 
-Subscription impact
+* Subscription impact
 
-Purchase frequency behavior
+* Purchase frequency behavior
 
-Documented queries + outputs + business interpretations
+* Documented queries + outputs + business interpretations
 
-📄 File: Customer_Shopping_Behavior_Analysis.pdf
+#### 📄 File: Customer_Shopping_Behavior_Analysis.pdf
 
 ## 📈 Excel Dashboard
 
@@ -56,39 +56,40 @@ Built an Excel dashboard using pivot tables
 
 Visualized:
 
-Sales trends
+* Sales trends
 
-Category performance
+* Category performance
 
-Customer activity
+* Customer activity
 
 File included as part of the repository
 
-📊 File: customer_shopping_dashboard.xlsx
+#### 📊 File: customer_shopping_dashboard.xlsx
 
 ## 🐍 Python Analysis
 
-Data cleaning and validation
+* Data cleaning and validation
 
-Missing value handling
+* Missing value handling
 
-Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
 
-Feature understanding and summarization
+* Feature understanding and summarization
 
-📓 File: customer_shopping_behavior_analysis.ipynb
+#### 📓 File: customer_shopping_behavior_analysis.ipynb
 
 ✅ Key Insights
 
-Young adults contribute the highest revenue
+* Young adults contribute the highest revenue
 
-Subscribed customers show higher average spending
+* Subscribed customers show higher average spending
 
-Digital payment methods are most preferred
+* Digital payment methods are most preferred
 
-Standard shipping is favored over faster options
+* Standard shipping is favored over faster options
 
 ## 📁 Repository Structure
+```
 Customer-Shopping-Behaviour-Analysis/
 │── customer_shopping_behaviour.csv
 │── sql_business_questions.sql
@@ -96,6 +97,7 @@ Customer-Shopping-Behaviour-Analysis/
 │── customer_shopping_dashboard.xlsx
 │── customer_shopping_behavior_analysis.ipynb
 │── README.md
+```
 
 ## 📌 Conclusion
 
