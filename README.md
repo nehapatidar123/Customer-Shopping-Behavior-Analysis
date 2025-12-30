@@ -6,9 +6,12 @@ The goal is to help businesses understand purchasing patterns, customer preferen
 
 ## 📌 Project Overview
 
-This project focuses on analyzing customer shopping behavior to extract meaningful business insights using SQL, Python, and Excel. The goal is to understand purchasing patterns, customer preferences, and revenue-driving segments to support data-driven decision-making.
+This project analyzes customer shopping behavior to identify purchasing patterns, high-value customer segments, and preference trends across payment methods, shipping types, and product categories.
+The analysis helps businesses improve marketing strategies, customer retention, and revenue optimization.
 
-## 🎯 Objectives
+## 🎯 Business Objectives
+
+This project aims to:
 
 * Analyze customer purchase behavior
 
@@ -22,7 +25,21 @@ This project focuses on analyzing customer shopping behavior to extract meaningf
 
 #### File: customer_shopping_behaviour.csv
 
-Contains customer demographics, purchase details, payment methods, shipping types, discounts, and review ratings used for behavioral and revenue analysis.
+The dataset contains:
+
+* Customer demographics
+
+- Purchase details
+
+- Payment methods
+
+- Shipping types
+
+- Discounts
+
+- Review ratings
+
+Used for behavioral, revenue, and preference analysis.
 
 ## 🛠 Tools & Technologies Used
 
@@ -36,9 +53,7 @@ Contains customer demographics, purchase details, payment methods, shipping type
 
 ## 📌 SQL Analysis
 
-- Wrote 10 business-focused SQL queries
-
-Covered:
+Wrote 10 business-focused SQL queries covering:
 
 * Revenue analysis
 
@@ -50,13 +65,13 @@ Covered:
 
 * Purchase frequency behavior
 
-* Documented queries + outputs + business interpretations
+Documented queries along with outputs and business interpretations
 
 #### 📄 File: Customer_Shopping_Behavior_Analysis.pdf
 
 ## 📈 Excel Dashboard
 
-Built an Excel dashboard using pivot tables
+Built an interactive Excel dashboard using pivot tables
 
 Visualized:
 
@@ -88,6 +103,18 @@ The Excel dashboard enables quick performance monitoring using pivot tables and 
 - Subscribed customers show higher average spending, indicating subscription programs improve customer value.
 - Digital payment methods are most preferred, suggesting focus on seamless online payment experiences.
 - Standard shipping is favored over faster options, highlighting cost sensitivity among customers.
+
+▶️ How to Use This Project
+
+1. Download or clone the repository
+
+2. Open customer_shopping_behaviour.csv to view raw data
+
+3. Review SQL queries and insights in Customer_Shopping_Behavior_Analysis.pdf
+
+4. Open customer_shopping_behavior_analysis.ipynb to explore Python analysis
+
+5. Open customer_shopping_dashboard.xlsx to view the Excel dashboard
 
 
 ## 📁 Repository Structure
