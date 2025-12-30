@@ -83,6 +83,10 @@ Visualized:
 
 The Excel dashboard enables quick performance monitoring using pivot tables and charts.
 
+### 📷 Excel Dashboard Preview
+![Excel Dashboard](Dashboard_preview.png)
+
+
 #### 📊 File: customer_shopping_dashboard.xlsx
 
 ## 🐍 Python Analysis
