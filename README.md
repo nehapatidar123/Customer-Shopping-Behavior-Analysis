@@ -1,10 +1,10 @@
 # customer-shopping-behavior-analysis
 
-📌 ## Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing customer shopping behavior to extract meaningful business insights using SQL, Python, and Excel. The goal is to understand purchasing patterns, customer preferences, and revenue-driving segments to support data-driven decision-making.
 
-🎯 ## Objectives
+## 🎯 Objectives
 
 Analyze customer purchase behavior
 
@@ -14,13 +14,13 @@ Understand payment, shipping, and category preferences
 
 Convert raw data into actionable business insights
 
-📊 ## Dataset
+## 📊 Dataset
 
 File: customer_shopping_behaviour.csv
 
 Contains customer demographics, purchase details, payment methods, shipping types, discounts, and review ratings.
 
-🛠 ## Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 SQL – Business-driven queries and aggregations
 
@@ -30,7 +30,7 @@ Excel – Pivot tables and dashboard creation
 
 Jupyter Notebook – Python-based analysis and documentation
 
-📌 ## SQL Analysis
+## 📌 SQL Analysis
 
 Wrote 10 business-focused SQL queries
 
@@ -50,7 +50,7 @@ Documented queries + outputs + business interpretations
 
 📄 File: Customer_Shopping_Behavior_Analysis.pdf
 
-📈 ## Excel Dashboard
+## 📈 Excel Dashboard
 
 Built an Excel dashboard using pivot tables
 
@@ -66,7 +66,7 @@ File included as part of the repository
 
 📊 File: customer_shopping_dashboard.xlsx
 
-🐍 ## Python Analysis
+## 🐍 Python Analysis
 
 Data cleaning and validation
 
@@ -88,7 +88,7 @@ Digital payment methods are most preferred
 
 Standard shipping is favored over faster options
 
-📁 ## Repository Structure
+## 📁 Repository Structure
 Customer-Shopping-Behaviour-Analysis/
 │── customer_shopping_behaviour.csv
 │── sql_business_questions.sql
@@ -97,6 +97,6 @@ Customer-Shopping-Behaviour-Analysis/
 │── customer_shopping_behavior_analysis.ipynb
 │── README.md
 
-📌 ## Conclusion
+## 📌 Conclusion
 
 This project demonstrates the ability to transform raw data into business insights using SQL, Python, and Excel. It is suitable for data analyst internship and entry-level roles.
